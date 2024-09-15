@@ -1,0 +1,15 @@
+2018_lap_dataset.pkl
+2018-2023_laps.pkl
+2019_lap_dataset.pkl
+2020_lap_dataset.pkl
+2021_lap_dataset.pkl
+2022_lap_dataset.pkl
+2023_lap_dataset.pkl
+plot_driver_laptimes.ipynb
+plot_qualifying_results.ipynb
+plot_who_can_still_win_wdc.ipynb
+process_lap_data.ipynb
+process_lap_data.py
+quali_time_predictor.ipynb
+safety_car.ipynb
+strategy_simulator.py
